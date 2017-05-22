@@ -1,7 +1,8 @@
 # template
 template for python data science projects
 
-├── config
+<pre><code>
+├── config 
 ├── docs
 ├── figures
 ├── models
@@ -13,3 +14,4 @@ template for python data science projects
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
+</code></pre>
